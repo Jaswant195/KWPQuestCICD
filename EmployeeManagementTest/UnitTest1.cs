@@ -21,18 +21,6 @@ namespace EmployeeManagementTest
         }
 
         [TestMethod]
-        public void GetEmployee_Get_ShouldReturnDataset()
-        {
-            // Arrange
-            int expected = 2;
-            // Act
-            DataSet ds = BLLEmployee.GetEmployee(1);
-
-            // Assert
-            Assert.AreEqual(expected, ds.Tables.Count);
-        }
-
-        [TestMethod]
         public void MethodName_ActionName_ReturnValue()
         {
             // Arrange
