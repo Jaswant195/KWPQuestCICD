@@ -1,0 +1,13 @@
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\EmployeeManagementTest.dll
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\EmployeeManagementTest.pdb
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Practice\EmployeeManagement\EmployeeManagementTest\obj\Debug\EmployeeManagementTest.csprojResolveAssemblyReference.cache
+E:\Practice\EmployeeManagement\EmployeeManagementTest\obj\Debug\EmployeeManagementTest.dll
+E:\Practice\EmployeeManagement\EmployeeManagementTest\obj\Debug\EmployeeManagementTest.pdb
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\BLL.dll
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\DAL.dll
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\BLL.pdb
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\DAL.pdb
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\EmployeeManagementTest.dll.config
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\MockData.dll
+E:\Practice\EmployeeManagement\EmployeeManagementTest\bin\Debug\MockData.pdb

@@ -1,0 +1,4 @@
+E:\Practice\EmployeeManagement\Mock.DAL\bin\Debug\Mock.DAL.dll
+E:\Practice\EmployeeManagement\Mock.DAL\bin\Debug\Mock.DAL.pdb
+E:\Practice\EmployeeManagement\Mock.DAL\obj\Debug\Mock.DAL.dll
+E:\Practice\EmployeeManagement\Mock.DAL\obj\Debug\Mock.DAL.pdb

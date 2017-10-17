@@ -1,0 +1,11 @@
+E:\Practice\EmployeeManagement\BLL\bin\Debug\BLL.dll
+E:\Practice\EmployeeManagement\BLL\bin\Debug\BLL.pdb
+E:\Practice\EmployeeManagement\BLL\bin\Debug\DAL.dll
+E:\Practice\EmployeeManagement\BLL\bin\Debug\DAL.pdb
+E:\Practice\EmployeeManagement\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Practice\EmployeeManagement\BLL\obj\Debug\BLL.dll
+E:\Practice\EmployeeManagement\BLL\obj\Debug\BLL.pdb
+E:\Practice\EmployeeManagement\BLL\bin\Debug\Ninject.dll
+E:\Practice\EmployeeManagement\BLL\bin\Debug\Ninject.xml
+E:\Practice\EmployeeManagement\BLL\bin\Debug\MockData.dll
+E:\Practice\EmployeeManagement\BLL\bin\Debug\MockData.pdb

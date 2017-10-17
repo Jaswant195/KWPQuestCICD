@@ -1,0 +1,5 @@
+E:\Practice\EmployeeManagement\MockData\bin\Debug\MockData.dll
+E:\Practice\EmployeeManagement\MockData\bin\Debug\MockData.pdb
+E:\Practice\EmployeeManagement\MockData\obj\Debug\MockData.csprojResolveAssemblyReference.cache
+E:\Practice\EmployeeManagement\MockData\obj\Debug\MockData.dll
+E:\Practice\EmployeeManagement\MockData\obj\Debug\MockData.pdb

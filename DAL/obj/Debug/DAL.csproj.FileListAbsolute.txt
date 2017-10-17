@@ -1,0 +1,7 @@
+E:\Practice\EmployeeManagement\DAL\bin\Debug\DAL.dll
+E:\Practice\EmployeeManagement\DAL\bin\Debug\DAL.pdb
+E:\Practice\EmployeeManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Practice\EmployeeManagement\DAL\obj\Debug\DAL.dll
+E:\Practice\EmployeeManagement\DAL\obj\Debug\DAL.pdb
+E:\Practice\EmployeeManagement\DAL\bin\Debug\MockData.dll
+E:\Practice\EmployeeManagement\DAL\bin\Debug\MockData.pdb
